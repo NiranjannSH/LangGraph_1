@@ -57,10 +57,6 @@ This project is a **LangGraph-based agentic cybersecurity pipeline** that automa
   - `ffuf`
   - `sqlmap`
 
-  On Linux, you can install them using:
-  ```bash
-  sudo apt install nmap gobuster ffuf sqlmap
-  ```
 
 ### **2. Clone the Repository**
 
