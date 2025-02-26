@@ -1,6 +1,4 @@
 # LangGraph_1
-Here’s a **well-structured and human-readable `README.md`** for your project. It explains the process, setup, and how to run the application without mentioning `pytest`.
-
 ---
 
 # **Cybersecurity Workflow Automation**
